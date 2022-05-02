@@ -1,5 +1,6 @@
 # Using Self-attention Convolutional Features and Auto Encoder to Predict Enhancer-promoter Interactions
 ## Columbia University COMS W4762 - Machine Learning for Functional Genomics Final Project
+### Team: Ziheng Li, Daniel Lee, Thang Nguyen
 
 In biology, transcription is the process of copying DNA into RNA by an enzyme called RNA polymerase in order to regulate gene expression. Specifically, RNA polymerase focuses on transcribing regions of DNA called genes. However, with the human genome having 3.2 billion base pairs long, locating said regions is not trivial. In order to facilitate the process, the enzyme leverages promoters, DNA sequences at the beginning of genes that mark the start of the transcription process. In addition, DNA also contains enhancers sequences, which are located thousands of base pairs away from promoters and contain activator proteins that boost RNA polymerase's efficiency. The interactive property between promoters and enhancers and its tie to gene expression has remained an open question, with many researches focusing on determining the relation between the sequence structures of enhancers, promoters and their interactions. 
 
