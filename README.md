@@ -20,4 +20,4 @@ Train __EPSAT__ by running:
 
 Train __APAE__ by running:
 
-`python AEClassification/train_BetaVAE.py`
+`python AEClassification/train_VAE.py`
