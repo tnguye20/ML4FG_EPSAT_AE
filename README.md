@@ -8,6 +8,8 @@ In this research, we create __EPSAT__, a deep learning model based on [__SPEID__
 
 ![f1 figure](figures/f1-scores.png)
 
+[Presentation](https://www.youtube.com/watch?v=NdwUEqzxbgY)
+
 In order to run the models, please first install all necessary packages in `requirements.txt`.
 
 `pip install -r requirements.txt`
